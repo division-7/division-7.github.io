@@ -28,7 +28,31 @@ Syntax highlighted code block
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
+### Inserting image 
+
 ![Matrix](/docs/assets/matrix.png)
+
+### Link to another page 
+![Page1](/pages/1.md)
+
+### Displaying some code ###
+Some basic Git commands are:
+```
+git status
+git add
+git commit
+```
+
+### Tasks lists ###
+
+- [x] #739
+- [ ] https://github.com/octo-org/octo-repo/issues/740
+- [ ] Add delight to the experience when all tasks are complete :tada:
+
+### Emojis ###
+
+Inserting emojis :kissing_cat: This PR looks great - it's ready to merge! :shipit:
+[Emojis list](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
 
 ### Jekyll Themes
 
