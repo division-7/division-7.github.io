@@ -33,7 +33,7 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 ![Matrix](/docs/assets/matrix.png)
 
 ### Link to another page 
-![Page1](/pages/1.md)
+![Page1](pages/1.md)
 
 ### Displaying some code ###
 Some basic Git commands are:
