@@ -32,7 +32,7 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 
 ### Inserting image 
 
-![Matrix](/docs/assets/matrix.png)
+![Matrix](/assets/matrix.png)
 
 ### Link to another page 
 [Autre page](pages/1)
