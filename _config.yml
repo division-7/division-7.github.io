@@ -1,4 +1,5 @@
 remote_theme: "jeffreytse/jekyll-theme-yat"
 night_mode: "on"
+excerpt_size: 0
 plugins:
   - jemoji
