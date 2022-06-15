@@ -1,3 +1,7 @@
+layout: home
+title: Home
+banner: "/assets/header.jpg"
+
 ## Division-7
 
 Division-7 est une entreprise de technologie visant à faciliter les actions des groupes à travers le monde.
