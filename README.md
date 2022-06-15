@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Division-7
 
-You can use the [editor on GitHub](https://github.com/division-7/division-7.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Division-7 est une entreprise de technologie visant à faciliter les actions des groupes à travers le monde.
 
 ### Markdown
 
