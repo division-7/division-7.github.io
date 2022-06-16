@@ -1,5 +1,9 @@
 remote_theme: "jeffreytse/jekyll-theme-yat"
 night_mode: "on"
-excerpt_size: 0
+excerpt_size: 350
+paginate: 5
+paginate_path: articles
 plugins:
   - jemoji
+  - jekyll-feed
+  - jekyll-paginate
