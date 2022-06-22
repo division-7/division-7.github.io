@@ -1,5 +1,5 @@
 remote_theme: "jeffreytse/jekyll-theme-yat"
-night_mode: "on"
+night_mode: "off"
 excerpt_size: 350
 paginate: 5
 paginate_path: articles
