@@ -1,4 +1,4 @@
-remote_theme: "jeffreytse/jekyll-theme-yat"
+remote_theme: "jeffreytse/jekyll-theme-yat@v1.10.0"
 night_mode: "off"
 excerpt_size: 350
 paginate: 5
